@@ -62,7 +62,8 @@ And if you're using a PMS5003 sensor you will need to:
 
 ## Alternate Software & User Projects
 
-* Enviro Plus Dashboard - https://gitlab.com/dedSyn4ps3/enviroplus-dashboard - A React-based web dashboard for viewing sensor data
+* Enviro Web - https://github.com/dedSyn4ps3/Enviro-Web - A React-based web dashboard for viewing sensor readings
+* Enviroplus-QL - https://github.com/dedSyn4ps3/Enviroplus-QL - Backend API server that uses GraphQL for serving sensor data
 * Enviro+ Example Projects - https://gitlab.com/dedSyn4ps3/enviroplus-python-projects - Includes original examples plus code to stream to Adafruit IO (more projects coming soon)
 * enviro monitor - https://github.com/roscoe81/enviro-monitor
 * mqtt-all - https://github.com/robmarkcole/rpi-enviro-mqtt - now upstream: [see examples/mqtt-all.py](examples/mqtt-all.py)
