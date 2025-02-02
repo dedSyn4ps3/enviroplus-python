@@ -1,3 +1,20 @@
+1.0.2
+-----
+
+* README.md: Update install instructions
+* Fix installer to enable serial
+* Fix gas sensor heater pin
+
+1.0.1
+-----
+
+* README.md: Fix images
+
+1.0.0
+-----
+
+* BREAKING: Port to gpiod/gpiodevice for Pi 5/Bookworm.
+
 0.0.6
 -----
 
